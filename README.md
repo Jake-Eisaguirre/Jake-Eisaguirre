@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there! I am an Environmental Data Science Masters student at Bren, University of California, Santa Barbara. My carrer goals are to apply my data science skills to the ecological world and uncover meaningful tools that can be used to conserve and restore our natural resources. 
 
-### Jake Eisaguirre
 
 <!--
 **Jake-Eisaguirre/Jake-Eisaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
