@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on my Masters in Environmental Data Science from Bren, University of Californina, Santa Barbara
 - 🌱 I’m currently learning multiple data science languages (R, Python, and SQL), data viziulation, and data modeling.
+- 👯 I’m looking to collaborate on projects that help better our understanding of the natural world and how we can use those new understandings to maintain our worlds ecological diversity
+- 📫 How to reach me: eisaguirre@bren.ucsb.edu
+- ⚡ Fun fact: In total, I have spent over 42 days underwater. 🐠
 
 
-**Jake-Eisaguirre/Jake-Eisaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Masters in Environmental Data Science from Bren, University of Californina, Santa Barbara
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
